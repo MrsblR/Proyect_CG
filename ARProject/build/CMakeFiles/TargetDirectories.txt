@@ -1,0 +1,3 @@
+/home/lapiz/ARProject/build/CMakeFiles/ARProject.dir
+/home/lapiz/ARProject/build/CMakeFiles/edit_cache.dir
+/home/lapiz/ARProject/build/CMakeFiles/rebuild_cache.dir
